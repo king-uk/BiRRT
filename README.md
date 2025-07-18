@@ -30,4 +30,6 @@ camke .. && make
 ```
 
 ## Result
+<p align="center">
 <img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/018c156d-0cfd-4b87-a194-97be7721a5d8" />
+</p>
