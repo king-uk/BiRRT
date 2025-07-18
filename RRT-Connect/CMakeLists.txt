@@ -20,9 +20,6 @@ set(COMMON_SOURCES
     src/wmrobot/bi_rrt_only.cpp
     src/wmrobot/bi_rrt_mppi.cpp
     src/wmrobot/debug.cpp
-
-
-    src/quadrotor/debug_1.cpp
 )
 
 foreach(SRC ${COMMON_SOURCES})
