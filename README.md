@@ -26,7 +26,7 @@ python3 npy_to_txt.py
 cd RRT-Connect
 mkdir builde && cd build
 camke .. && make
-./bi_rrt_only
+./debug
 ```
 
 ## Result
